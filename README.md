@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hey there, future co-worker! 👋<br><br>I'm Sameep, a final-year CSE student and a Backend SWE Intern at Veersa Technologies, passionate about building scalable and efficient systems. 💻✨<br><br>This is my digital playground, where I experiment, learn, and bring ideas to life through code. I'm always up for new challenges and love collaborating to create something impactful. 🤝<br><br>Let's create something epic together! 🚀<br><br>Always open to exciting opportunities in the world of software development. 😉
+## Hey there, future co-worker! 👋<br><br>I'm Sameep, Software Engineer(Backend) at Veersa Technologies, passionate about building scalable and efficient systems. 💻✨<br><br>This is my digital playground, where I experiment, learn, and bring ideas to life through code. I'm always up for new challenges and love collaborating to create something impactful. 🤝<br><br>Let's create something epic together! 🚀<br><br>Always open to exciting opportunities in the world of software development. 😉
 
 
 
